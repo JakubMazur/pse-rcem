@@ -15,16 +15,10 @@
   },
   {
     "year": 2025,
-    "month": 3,
+    "month": 2,
     "value": 182.96,
     "published": "2025-04-11",
-    "corrections": [
-      {
-        "value": 182.74,
-        "date": "2025-05-11",
-        "percentageValue": -0.12
-      }
-    ]
+    "corrections": null
   },
   {
     "year": 2025,
