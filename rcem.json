@@ -1,5 +1,12 @@
 [
   {
+    "year": 2026,
+    "month": 1,
+    "value": 551.96,
+    "published": "2026-02-11",
+    "corrections": null
+  },
+  {
     "year": 2025,
     "month": 1,
     "value": 480.01,
@@ -67,7 +74,13 @@
     "month": 10,
     "value": 334.02,
     "published": "2025-11-11",
-    "corrections": null
+    "corrections": [
+      {
+        "value": 340.84,
+        "date": "2026-02-11",
+        "percentageValue": 2.04
+      }
+    ]
   },
   {
     "year": 2025,
