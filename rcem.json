@@ -7,6 +7,13 @@
     "corrections": null
   },
   {
+    "year": 2026,
+    "month": 2,
+    "value": 339.01,
+    "published": "2026-03-11",
+    "corrections": null
+  },
+  {
     "year": 2025,
     "month": 1,
     "value": 480.01,
@@ -25,7 +32,13 @@
     "month": 2,
     "value": 182.96,
     "published": "2025-04-11",
-    "corrections": null
+    "corrections": [
+      {
+        "value": 178.84,
+        "date": "2026-03-11",
+        "percentageValue": -2.25
+      }
+    ]
   },
   {
     "year": 2025,
